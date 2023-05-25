@@ -33,4 +33,4 @@ GUILD_ID= YOUR_ID_GUILD
 
 </p>
 
-<img width="80%" src="./imgs/example-use.png">
+<img src="./imgs/example-use.png">

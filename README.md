@@ -10,9 +10,9 @@ DISCORD BOT
 
 <h2>How to use</h2>
 
-> <h3>1 - Download the files to your machine. </h3>
+> 1 - Download the files to your machine. 
 >
-> <h3> 2 - Download project dependencies with `npm install` </h3>
+>  2 - Download project dependencies with `npm install` 
 >
 > <h3>2 - Add an .env file, at the root of the project.</h3>
 >

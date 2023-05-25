@@ -10,13 +10,13 @@ DISCORD BOT
 
 <h2>How to use</h2>
 
-> 1 - Download the files to your machine. 
+> <h4>1 - Download the files to your machine. </h4>
 >
->  2 - Download project dependencies with `npm install` 
+> <h4> 2 - Download project dependencies with `npm install` </h4>
 >
-> <h3>2 - Add an .env file, at the root of the project.</h3>
+> <h4>2 - Add an .env file, at the root of the project.</h4>
 >
-> <h3> 3 - Configure environment variables inside the .env file. Example: </h3>
+> <h4> 3 - Configure environment variables inside the .env file. Example: </h4>
 <br>
 
 ~~~
@@ -25,7 +25,7 @@ CLIENT_ID= YOUR_ID_CLIENT
 GUILD_ID= YOUR_ID_GUILD
 ~~~
 
-``Obs: Make sure you create your bot on the ``[Discord Developers](https://discord.com/developers/applications)   ``website, and the server too!``
+> Obs: Make sure you create your bot on the [Discord Developers](https://discord.com/developers/applications) website, and the server too!
 
 <p>
 

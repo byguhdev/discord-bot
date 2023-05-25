@@ -32,3 +32,5 @@ GUILD_ID= YOUR_ID_GUILD
 > After that, run the application with `npm .` or `npm index.js`
 
 </p>
+
+<img width="80%" src="./imgs/example-use.png">

@@ -14,9 +14,9 @@ DISCORD BOT
 >
 > <h4> 2 - Download project dependencies with `npm install` </h4>
 >
-> <h4>2 - Add an .env file, at the root of the project.</h4>
+> <h4>3 - Add an .env file, at the root of the project.</h4>
 >
-> <h4> 3 - Configure environment variables inside the .env file. Example: </h4>
+> <h4> 4 - Configure environment variables inside the .env file. Example: </h4>
 <br>
 
 ~~~

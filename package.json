@@ -9,7 +9,7 @@
   "keywords": [
     "Bot discord"
   ],
-  "author": "Gustavo Henrique | @gustavhuey",
+  "author": "Gustavo Henrique | @byguhdev",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.11.0",

@@ -6,6 +6,8 @@ DISCORD BOT
 
 > <h3>Discord bot. This is a prototype bot for discord, it has 4 simple features. </h3>
 
+> *Developed during the @rafaballerini video*
+
 <br>
 
 <h2>How to use</h2>
